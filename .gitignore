@@ -25,6 +25,14 @@
 *.a
 *.lib
 
+*.DS_Store
+*.DS_Store
+*.DS_Store
+*.DS_Store
+*.DS_Store
+*.DS_Store
+*.DS_Store
+*.DS_Store
 # Executables
 *.exe
 *.out
