@@ -29,7 +29,7 @@ P to pause
 Stay in the dark!
 
 ## Videos
-Code explanation: https://youtu.be/VqiaS4eqESU
+Code explanation: https://youtu.be/VqiaS4eqESU  
 Gameplay Video: https://youtu.be/fs0dPnv0N0Q
 
 ## Members
