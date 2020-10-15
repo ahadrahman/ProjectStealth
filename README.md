@@ -39,4 +39,5 @@ Programmers:
 * tumejack (Jackson Tume)
 -------
 Designers:
-*
+* Miguel Gierran
+* Renzo Ebue
