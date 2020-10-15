@@ -28,6 +28,8 @@ P to pause
 
 Stay in the dark!
 
+## Videos
+Code explanation: https://youtu.be/JwawXWvY6gI
 
 ## Members
 Programmers:
