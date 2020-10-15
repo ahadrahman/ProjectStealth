@@ -14,8 +14,8 @@ The game loop is to get to the end of each level. If the player is seen, or dies
 * [FreeSound](https://freesound.org/) -> Sound Effects
 
 ## Installation
-Download the release from github "Group.2_ProjectStealth.zip". Unzip and open the .app to play the game
-
+Mac: Download the release from github "Group.2_ProjectStealth.zip". Unzip and open the .app to play the game.
+Windows: Download the release from github. Unzip and open the .exe to play the game.
 ## Instructions
 AD to move the character
 Space bar to jump (or double jump)
@@ -30,6 +30,7 @@ Stay in the dark!
 
 ## Videos
 Code explanation: https://youtu.be/VqiaS4eqESU
+Gameplay Video: https://youtu.be/fs0dPnv0N0Q
 
 ## Members
 Programmers:
