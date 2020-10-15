@@ -15,7 +15,7 @@ The game loop is to get to the end of each level. If the player is seen, or dies
 
 ## Installation
 Mac: Download the release from github "Group.2_ProjectStealth.zip". Unzip and open the .app to play the game.
-Windows: Download the release from github. Unzip and open the .exe to play the game.
+Windows: Download the release from github "ProjectStealthWindows.rar". Unzip and open the .exe to play the game.
 ## Instructions
 AD to move the character
 Space bar to jump (or double jump)
